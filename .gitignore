@@ -1,0 +1,6 @@
+.sqlx
+target
+.Cargo.toml.un*
+.Cargo.lock
+Cargo.toml*
+sqlite3
